@@ -22,7 +22,7 @@ jobs:
       uses: actions/checkout@v2
       
     - name: Build
-      run: go build -v .
+      run: make install
 
     - name: Test
       run: go test -v .
