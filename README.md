@@ -1,3 +1,5 @@
+![Go](https://github.com/ashish-amarnath/octant-velero-plugin/workflows/Go/badge.svg?branch=master)
+
 # Octant Velero Plugin
 
 _This plugin is still under development and is not ready for use. PRs are welcome_ 😀
